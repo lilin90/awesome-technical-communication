@@ -7,13 +7,13 @@ A curated list of awesome resources about technical communication, including but
 
 **Table of Contents:**
 
-- [Organizations](#organizations)
-- [Books and Guides](#books-and-guides)
-- [Blogs and Websites](#blogs-and-websites)
-- [Courses and Training](#courses-and-training)
-- [Podcasts](#podcasts)
+- [🏫 Organizations](#%f0%9f%8f%ab-organizations)
+- [📚 Books and Guides](#%f0%9f%93%9a-books-and-guides)
+- [🌐 Blogs and Websites](#%f0%9f%8c%90-blogs-and-websites)
+- [🎓 Courses and Training](#%f0%9f%8e%93-courses-and-training)
+- [📻 Podcasts](#%f0%9f%93%bb-podcasts)
 
-## Organizations
+## 🏫 Organizations
 
 - [Write the Docs](https://www.writethedocs.org/)
 - [STC](https://www.stc.org/) (Society for Technical Communication)
@@ -25,7 +25,7 @@ A curated list of awesome resources about technical communication, including but
 - [Content Wrangler](http://www.thecontentwrangler.com/)
 - [IEEE PCS](https://procomm.ieee.org/) (IEEE Professional Communication Society)
 
-## Books and Guides
+## 📚 Books and Guides
 
 - [The IBM Style Guide](https://www.amazon.com/IBM-Style-Guide-Conventions-Writers-ebook/dp/B005Z09FOC)
 - [Developing Quality Technical Information](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975)
@@ -43,18 +43,18 @@ A curated list of awesome resources about technical communication, including but
 - [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred-dp-1319058523/dp/1319058523/)
 - [Technical Translation: Usability Strategies for Translating Technical Documentation](https://www.amazon.com/Technical-Translation-Strategies-Translating-Documentation-ebook-dp-B000UJBJLA/dp/B000UJBJLA/)
 
-## Blogs and Websites
+## 🌐 Blogs and Websites
 
 - [I'd Rather Be Writing](http://idratherbewriting.com/)
 - [Content Wrangler](http://www.thecontentwrangler.com/)
 - [DEVREL.net](https://devrel.net/)
 
-## Courses and Training
+## 🎓 Courses and Training
 
 - [Google Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
 - [tcworld TCTrainNet Training Program with Certification](https://www.technical-writing-training-and-certification.com/)
 
-## Podcasts
+## 📻 Podcasts
 
 - [Write the Docs Podcast](https://podcast.writethedocs.org/)
 - [Writers of Silicon Valley](https://www.writersofsiliconvalley.com/)

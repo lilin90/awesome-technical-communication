@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Awesome Technical Communication [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources about technical communication, including but not limited to technical writing, technical translation, UX/UI, content strategy, content marketing.
+A curated list of awesome resources about [technical communication](https://en.wikipedia.org/wiki/Technical_communication), including but not limited to [technical writing](https://en.wikipedia.org/wiki/Technical_writing), [technical translation](https://en.wikipedia.org/wiki/Technical_translation), [UX](https://en.wikipedia.org/wiki/User_experience) & [UI](https://en.wikipedia.org/wiki/User_interface_design), [content strategy](https://en.wikipedia.org/wiki/Content_strategy), [content marketing](https://en.wikipedia.org/wiki/Content_marketing).
 
 > More resources are coming soon!
 

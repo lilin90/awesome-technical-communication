@@ -42,6 +42,7 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [Technical Communication: A reader-centered approach](https://www.amazon.com/Technical-Communication-reader-centered-approach-8th/dp/113330981X/)
 - [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred-dp-1319058523/dp/1319058523/)
 - [Technical Translation: Usability Strategies for Translating Technical Documentation](https://www.amazon.com/Technical-Translation-Strategies-Translating-Documentation-ebook-dp-B000UJBJLA/dp/B000UJBJLA/)
+- [Microcopy: The Complete Guide](https://www.microcopybook.com/)
 
 ## 🌐 Blogs and Websites
 

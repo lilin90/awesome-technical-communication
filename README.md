@@ -7,11 +7,11 @@ A curated list of awesome resources about [technical communication](https://en.w
 
 **Table of Contents:**
 
-- [🏫 Organizations](#%f0%9f%8f%ab-organizations)
-- [📚 Books and Guides](#%f0%9f%93%9a-books-and-guides)
-- [🌐 Blogs and Websites](#%f0%9f%8c%90-blogs-and-websites)
-- [🎓 Courses and Training](#%f0%9f%8e%93-courses-and-training)
-- [📻 Podcasts](#%f0%9f%93%bb-podcasts)
+- [🏫 Organizations](#-organizations)
+- [📚 Books and Guides](#-books-and-guides)
+- [🌐 Blogs and Websites](#-blogs-and-websites)
+- [🎓 Courses and Training](#-courses-and-training)
+- [📻 Podcasts](#-podcasts)
 
 ## 🏫 Organizations
 
@@ -49,6 +49,10 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [I'd Rather Be Writing](http://idratherbewriting.com/)
 - [Content Wrangler](http://www.thecontentwrangler.com/)
 - [DEVREL.net](https://devrel.net/)
+- [TechWhirl](https://techwhirl.com/)
+- [ClickHelp Technical Writing Blog](https://clickhelp.com/clickhelp-technical-writing-blog/)
+- [Scriptorium Blog](https://www.scriptorium.com/blog/)
+- [ffeathers](https://ffeathers.wordpress.com/)
 
 ## 🎓 Courses and Training
 

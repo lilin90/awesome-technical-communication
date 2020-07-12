@@ -3,8 +3,6 @@
 
 A curated list of awesome resources about [technical communication](https://en.wikipedia.org/wiki/Technical_communication), including but not limited to [technical writing](https://en.wikipedia.org/wiki/Technical_writing), [technical translation](https://en.wikipedia.org/wiki/Technical_translation), [UX](https://en.wikipedia.org/wiki/User_experience) & [UI](https://en.wikipedia.org/wiki/User_interface_design), [content strategy](https://en.wikipedia.org/wiki/Content_strategy), [content marketing](https://en.wikipedia.org/wiki/Content_marketing).
 
-> More resources are coming soon!
-
 **Table of Contents:**
 
 - [🏫 Organizations](#-organizations)
@@ -12,6 +10,7 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [🌐 Blogs and Websites](#-blogs-and-websites)
 - [🎓 Courses and Training](#-courses-and-training)
 - [📻 Podcasts](#-podcasts)
+- [📰 Journals](#-journals)
 
 ## 🏫 Organizations
 
@@ -27,15 +26,22 @@ A curated list of awesome resources about [technical communication](https://en.w
 
 ## 📚 Books and Guides
 
-- [The IBM Style Guide](https://www.amazon.com/IBM-Style-Guide-Conventions-Writers-ebook/dp/B005Z09FOC)
-- [Developing Quality Technical Information](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975)
-- [DITA Best Practices](https://www.amazon.com/DITA-Best-Practices-Roadmap-Architecting/dp/0132480522)
-- [IBM Carbon Design System Content Guidelines](https://www.carbondesignsystem.com/guidelines/content/general)
-- [Google Developer Documentation Style Guide](https://developers.google.cn/style/)
-- [Google Material Design Writing Guidelines](https://material.io/design/communication/writing.html#principles)
-- [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
-- [Microsoft Localization Style Guides](https://www.microsoft.com/en-us/language/styleguides) for Different Languages
-- [Microsoft Manual of Style for Technical Publications](https://www.amazon.com/Microsoft-Manual-Style-Technical-Publications/dp/0735617465)
++ IBM or IBM Press
+  - [The IBM Style Guide](https://www.amazon.com/IBM-Style-Guide-Conventions-Writers-ebook/dp/B005Z09FOC)
+  - [Developing Quality Technical Information](https://www.amazon.com/Developing-Quality-Technical-Information-Handbook/dp/0133118975)
+  - [DITA Best Practices](https://www.amazon.com/DITA-Best-Practices-Roadmap-Architecting/dp/0132480522)
+  + [IBM Design](https://www.ibm.com/design/)
+    - [Design Philosophy](https://www.ibm.com/design/approach/design-philosophy/)
+    - [Enterprise Design Thinking](https://www.ibm.com/design/thinking) (activities and courses)
+  - [IBM Design Language](https://www.ibm.com/design/language/)
+  - [IBM Carbon Design System Content Guidelines](https://www.carbondesignsystem.com/)
++ Google
+    - [Google Developer Documentation Style Guide](https://developers.google.cn/style/)
+    - [Google Material Design Writing Guidelines](https://material.io/design/communication/writing.html#principles)
++ Microsoft
+    - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
+    - [Microsoft Localization Style Guides](https://www.microsoft.com/en-us/language/styleguides) for Different Languages
+    - [Microsoft Manual of Style for Technical Publications](https://www.amazon.com/Microsoft-Manual-Style-Technical-Publications/dp/0735617465)
 - [The Chicago Manual of Style](https://www.amazon.com/Chicago-Manual-Style-16th/dp/0226104206) ([Online](https://www.chicagomanualofstyle.org/home.html))
 - [ASD Simplified Technical English (ASD-STE100)](http://www.asd-ste100.org/request.html)
 - [Style: Lessons in Clarity and Grace](https://www.amazon.com/Style-Lessons-Clarity-Grace-12th/dp/0134080416/)
@@ -43,12 +49,14 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred-dp-1319058523/dp/1319058523/)
 - [Technical Translation: Usability Strategies for Translating Technical Documentation](https://www.amazon.com/Technical-Translation-Strategies-Translating-Documentation-ebook-dp-B000UJBJLA/dp/B000UJBJLA/)
 - [Microcopy: The Complete Guide](https://www.microcopybook.com/)
+- GOV.UK [Service Manual](https://www.gov.uk/service-manual) and [Content Design](https://www.gov.uk/guidance/content-design)
 
 ## 🌐 Blogs and Websites
 
 - [I'd Rather Be Writing](http://idratherbewriting.com/)
 - [Content Wrangler](http://www.thecontentwrangler.com/)
 - [DEVREL.net](https://devrel.net/)
+- [Laws of UX](https://lawsofux.com/)
 - [TechWhirl](https://techwhirl.com/)
 - [ClickHelp Technical Writing Blog](https://clickhelp.com/clickhelp-technical-writing-blog/)
 - [Scriptorium Blog](https://www.scriptorium.com/blog/)
@@ -75,3 +83,9 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [Knowledgebase Ninjas](https://document360.io/blog/category/knowledgebase-ninjas/)
 - [The Manuscript](https://podcasts.apple.com/podcast/the-manuscript/id1501843799)
 - [Grammar Girl](https://www.quickanddirtytips.com/grammar-girl)
+
+## 📰 Journals
+
+- [STC Technical Communication](https://www.stc.org/techcomm/)
+- [ACM Communication Design Quarterly Review](https://dl.acm.org/newsletter/sigdoc-cdqr)
+- [Technical Communication Quarterly](https://www.tandfonline.com/loi/htcq20)

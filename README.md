@@ -49,6 +49,8 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred-dp-1319058523/dp/1319058523/)
 - [Technical Translation: Usability Strategies for Translating Technical Documentation](https://www.amazon.com/Technical-Translation-Strategies-Translating-Documentation-ebook-dp-B000UJBJLA/dp/B000UJBJLA/)
 - [Microcopy: The Complete Guide](https://www.microcopybook.com/)
+- [Laws of UX](https://lawsofux.com/)
+  - Book: [Laws of UX: Using Psychology to Design Better Products & Services](https://www.amazon.com/Laws-UX-Principles-Persuasive-Products/dp/149205531X)
 - GOV.UK [Service Manual](https://www.gov.uk/service-manual) and [Content Design](https://www.gov.uk/guidance/content-design)
 
 ## 🌐 Blogs and Websites
@@ -56,7 +58,6 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [I'd Rather Be Writing](http://idratherbewriting.com/)
 - [Content Wrangler](http://www.thecontentwrangler.com/)
 - [DEVREL.net](https://devrel.net/)
-- [Laws of UX](https://lawsofux.com/)
 - [TechWhirl](https://techwhirl.com/)
 - [ClickHelp Technical Writing Blog](https://clickhelp.com/clickhelp-technical-writing-blog/)
 - [Scriptorium Blog](https://www.scriptorium.com/blog/)

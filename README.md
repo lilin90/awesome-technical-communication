@@ -36,12 +36,13 @@ A curated list of awesome resources about [technical communication](https://en.w
   - [IBM Design Language](https://www.ibm.com/design/language/)
   - [IBM Carbon Design System Content Guidelines](https://www.carbondesignsystem.com/)
 + Google
-    - [Google Developer Documentation Style Guide](https://developers.google.cn/style/)
-    - [Google Material Design Writing Guidelines](https://material.io/design/communication/writing.html#principles)
+  - [Google Developer Documentation Style Guide](https://developers.google.cn/style/)
+  - [Google Material Design Writing Guidelines](https://material.io/design/communication/writing.html#principles)
 + Microsoft
-    - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
-    - [Microsoft Localization Style Guides](https://www.microsoft.com/en-us/language/styleguides) for Different Languages
-    - [Microsoft Manual of Style for Technical Publications](https://www.amazon.com/Microsoft-Manual-Style-Technical-Publications/dp/0735617465)
+  - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
+  + [Microsoft Localization Style Guides](https://www.microsoft.com/en-us/language/styleguides) for Different Languages
+    - [Microsoft Chinese (Simplified) Style Guide](http://download.microsoft.com/download/4/c/a/4ca95933-3496-4793-9d77-a89b60a8312c/zho-chn-styleguide.pdf)
+  - [Microsoft Manual of Style for Technical Publications](https://www.amazon.com/Microsoft-Manual-Style-Technical-Publications/dp/0735617465)
 - [The Chicago Manual of Style](https://www.amazon.com/Chicago-Manual-Style-16th/dp/0226104206) ([Online](https://www.chicagomanualofstyle.org/home.html))
 - [ASD Simplified Technical English (ASD-STE100)](http://www.asd-ste100.org/request.html)
 - [Style: Lessons in Clarity and Grace](https://www.amazon.com/Style-Lessons-Clarity-Grace-12th/dp/0134080416/)

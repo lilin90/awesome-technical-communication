@@ -52,6 +52,8 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [Microcopy: The Complete Guide](https://www.microcopybook.com/)
 - [Laws of UX](https://lawsofux.com/)
   - Book: [Laws of UX: Using Psychology to Design Better Products & Services](https://www.amazon.com/Laws-UX-Principles-Persuasive-Products/dp/149205531X)
+- [Strategic Writing for UX: Drive Engagement, Conversion, and Retention with Every Word](https://www.goodreads.com/book/show/44144500-strategic-writing-for-ux)
+- [Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation](https://www.goodreads.com/book/show/6671664-change-by-design)
 - GOV.UK [Service Manual](https://www.gov.uk/service-manual) and [Content Design](https://www.gov.uk/guidance/content-design)
 
 ## 🌐 Blogs and Websites

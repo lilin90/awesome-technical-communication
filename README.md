@@ -127,7 +127,7 @@ This section lists the selected resources in English.
 ## Resources in Chinese 中文资源
 
 + 技术传播那些事儿 by [Lilian Lee](https://github.com/lilin90)
-  - [微信公众号](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+  - [微信公众号](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg) (ID: tc_fun)
   - [知乎专栏](https://zhuanlan.zhihu.com/tc-fun)
 + [zh.md](https://zh.md/)
   - [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/)（[GitHub 仓库](https://github.com/yikeke/zh-style-guide/blob/master/README.md)）

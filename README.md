@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Awesome Technical Communication [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources about [technical communication](https://en.wikipedia.org/wiki/Technical_communication), including but not limited to [technical writing](https://en.wikipedia.org/wiki/Technical_writing), [technical translation](https://en.wikipedia.org/wiki/Technical_translation), [UX](https://en.wikipedia.org/wiki/User_experience) & [UI](https://en.wikipedia.org/wiki/User_interface_design), [content strategy](https://en.wikipedia.org/wiki/Content_strategy), [content marketing](https://en.wikipedia.org/wiki/Content_marketing).
+A curated list of awesome resources about [technical communication](https://en.wikipedia.org/wiki/Technical_communication), including but not limited to [technical writing](https://en.wikipedia.org/wiki/Technical_writing), [technical translation](https://en.wikipedia.org/wiki/Technical_translation), [UX](https://en.wikipedia.org/wiki/User_experience) & [UI](https://en.wikipedia.org/wiki/User_interface_design), [content strategy](https://en.wikipedia.org/wiki/Content_strategy), [content marketing](https://en.wikipedia.org/wiki/Content_marketing), [DevRel (developer relations)](https://developerrelations.com/what-is-developer-relations), [developer marketing](https://developerrelations.com/what-is-b2d-or-developer-marketing), [open source](https://en.wikipedia.org/wiki/Open_source), and community.
 
 **Table of Contents:**
 
@@ -63,6 +63,13 @@ This section lists the selected resources in English.
 - [Strategic Writing for UX: Drive Engagement, Conversion, and Retention with Every Word](https://www.goodreads.com/book/show/44144500-strategic-writing-for-ux)
 - [Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation](https://www.goodreads.com/book/show/6671664-change-by-design)
 - GOV.UK [Service Manual](https://www.gov.uk/service-manual) and [Content Design](https://www.gov.uk/guidance/content-design)
++ DevRel
+  - [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292/)
++ Open source
+  - [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088/)
++ Community
+  - [The Art of Community: Building the New Age of Participation](https://www.amazon.com/Art-Community-Building-New-Participation/dp/1449312063/)
+  - [People Powered: How Communities Can Supercharge Your Business, Brand, and Teams](https://www.amazon.com/People-Powered-Communities-Supercharge-Business/dp/1400214882/)
 
 ### 🌐 Blogs and Websites
 

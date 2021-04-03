@@ -5,14 +5,21 @@ A curated list of awesome resources about [technical communication](https://en.w
 
 **Table of Contents:**
 
-- [🏫 Organizations](#-organizations)
-- [📚 Books and Guides](#-books-and-guides)
-- [🌐 Blogs and Websites](#-blogs-and-websites)
-- [🎓 Courses and Training](#-courses-and-training)
-- [📻 Podcasts](#-podcasts)
-- [📰 Journals](#-journals)
++ [Resources in English](#resources-in-english)
+  - [🏫 Organizations](#-organizations)
+  - [📚 Books and Guides](#-books-and-guides)
+  - [🌐 Blogs and Websites](#-blogs-and-websites)
+  - [🎓 Courses and Training](#-courses-and-training)
+  - [📻 Podcasts](#-podcasts)
+  - [📰 Journals](#-journals)
++ [Resources in Chinese 中文资源](#resources-in-chinese-中文资源)
++ [Stargazers over time](#-stargazers-over-time)
 
-## 🏫 Organizations
+## Resources in English
+
+This section lists the selected resources in English.
+
+### 🏫 Organizations
 
 - [Write the Docs](https://www.writethedocs.org/)
 - [STC](https://www.stc.org/) (Society for Technical Communication)
@@ -24,7 +31,7 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [Content Wrangler](http://www.thecontentwrangler.com/)
 - [IEEE PCS](https://procomm.ieee.org/) (IEEE Professional Communication Society)
 
-## 📚 Books and Guides
+### 📚 Books and Guides
 
 + IBM or IBM Press
   - [The IBM Style Guide](https://www.amazon.com/IBM-Style-Guide-Conventions-Writers-ebook/dp/B005Z09FOC)
@@ -55,10 +62,8 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [Strategic Writing for UX: Drive Engagement, Conversion, and Retention with Every Word](https://www.goodreads.com/book/show/44144500-strategic-writing-for-ux)
 - [Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation](https://www.goodreads.com/book/show/6671664-change-by-design)
 - GOV.UK [Service Manual](https://www.gov.uk/service-manual) and [Content Design](https://www.gov.uk/guidance/content-design)
-+ Resources in Chinese 中文材料
-  - 
 
-## 🌐 Blogs and Websites
+### 🌐 Blogs and Websites
 
 - [I'd Rather Be Writing](http://idratherbewriting.com/)
 - [Content Wrangler](http://www.thecontentwrangler.com/)
@@ -68,12 +73,12 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [Scriptorium Blog](https://www.scriptorium.com/blog/)
 - [ffeathers](https://ffeathers.wordpress.com/)
 
-## 🎓 Courses and Training
+### 🎓 Courses and Training
 
 - [Google Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
 - [tcworld TCTrainNet Training Program with Certification](https://www.technical-writing-training-and-certification.com/)
 
-## 📻 Podcasts
+### 📻 Podcasts
 
 + Tech Comm
 
@@ -105,11 +110,20 @@ A curated list of awesome resources about [technical communication](https://en.w
 
     Tech and culture trends, news, and the future – especially as "software eats the world"
 
-## 📰 Journals
+### 📰 Journals
 
 - [STC Technical Communication](https://www.stc.org/techcomm/)
 - [ACM Communication Design Quarterly Review](https://dl.acm.org/newsletter/sigdoc-cdqr)
 - [Technical Communication Quarterly](https://www.tandfonline.com/loi/htcq20)
+
+## Resources in Chinese 中文资源
+
++ 技术传播那些事儿 by [Lilian Lee](https://github.com/lilin90)
+  - [微信公众号](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg)
+  - [知乎专栏](https://zhuanlan.zhihu.com/tc-fun)
++ [zh.md](https://zh.md/)
+  - [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/)（[GitHub 仓库](https://github.com/yikeke/zh-style-guide/blob/master/README.md)）
+  - [zhLint 中文技术文档检查工具](https://github.com/tidb-incubator/zh.md)
 
 ## ⭐️ Stargazers over time
 

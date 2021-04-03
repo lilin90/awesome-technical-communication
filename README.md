@@ -50,17 +50,19 @@ A curated list of awesome resources about [technical communication](https://en.w
 - [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred-dp-1319058523/dp/1319058523/)
 - [Technical Translation: Usability Strategies for Translating Technical Documentation](https://www.amazon.com/Technical-Translation-Strategies-Translating-Documentation-ebook-dp-B000UJBJLA/dp/B000UJBJLA/)
 - [Microcopy: The Complete Guide](https://www.microcopybook.com/)
-- [Laws of UX](https://lawsofux.com/)
++ [Laws of UX](https://lawsofux.com/)
   - Book: [Laws of UX: Using Psychology to Design Better Products & Services](https://www.amazon.com/Laws-UX-Principles-Persuasive-Products/dp/149205531X)
 - [Strategic Writing for UX: Drive Engagement, Conversion, and Retention with Every Word](https://www.goodreads.com/book/show/44144500-strategic-writing-for-ux)
 - [Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation](https://www.goodreads.com/book/show/6671664-change-by-design)
 - GOV.UK [Service Manual](https://www.gov.uk/service-manual) and [Content Design](https://www.gov.uk/guidance/content-design)
++ Resources in Chinese 中文材料
+  - 
 
 ## 🌐 Blogs and Websites
 
 - [I'd Rather Be Writing](http://idratherbewriting.com/)
 - [Content Wrangler](http://www.thecontentwrangler.com/)
-- [DEVREL.net](https://devrel.net/)
+- [DeveloperRelations.com](https://developerrelations.com/)
 - [TechWhirl](https://techwhirl.com/)
 - [ClickHelp Technical Writing Blog](https://clickhelp.com/clickhelp-technical-writing-blog/)
 - [Scriptorium Blog](https://www.scriptorium.com/blog/)
@@ -73,23 +75,42 @@ A curated list of awesome resources about [technical communication](https://en.w
 
 ## 📻 Podcasts
 
-- [Write the Docs Podcast](https://podcast.writethedocs.org/)
-- [Writers of Silicon Valley](https://www.writersofsiliconvalley.com/)
-- [The Content Strategy Podcast](https://www.contentstrategy.com/podcast)
-- [I'd Rather Be Writing Podcast](https://idratherbewriting.com/category-podcasts/)
-- [The Cherryleaf Podcast](https://www.cherryleaf.com/podcast/)
-- [The Content Strategy Experts Podcast](https://www.scriptorium.com/content-strategy-experts-podcast/)
-- [Wireframe (Adobe)](https://podcasts.apple.com/us/podcast/wireframe/id1437677219)
-- [The Not-Boring Tech Writer Podcast](https://www.thenotboringtechwriter.com/)
-- [10-Minute Tech Comm](https://www.stitcher.com/podcast/uah-technical-writing/10minute-tech-comm)
-- [Content Content Podcast](http://edmarsh.com/content-content-podcast/)
-- [Instrktiv's Insane Instructions Show](https://open.spotify.com/show/0OqluDn7YSjc1cdAULPOB8)
-- [Knowledgebase Ninjas](https://document360.io/blog/category/knowledgebase-ninjas/)
-- [The Manuscript](https://podcasts.apple.com/podcast/the-manuscript/id1501843799)
-- [Grammar Girl](https://www.quickanddirtytips.com/grammar-girl)
++ Tech Comm
+
+  - [Write the Docs Podcast](https://podcast.writethedocs.org/)
+  - [Writers of Silicon Valley](https://www.writersofsiliconvalley.com/)
+  - [The Content Strategy Podcast](https://www.contentstrategy.com/podcast)
+  - [I'd Rather Be Writing Podcast](https://idratherbewriting.com/category-podcasts/)
+  - [The Cherryleaf Podcast](https://www.cherryleaf.com/podcast/)
+  - [The Content Strategy Experts Podcast](https://www.scriptorium.com/content-strategy-experts-podcast/)
+  - [Wireframe (Adobe)](https://podcasts.apple.com/us/podcast/wireframe/id1437677219)
+  - [The Not-Boring Tech Writer Podcast](https://www.thenotboringtechwriter.com/)
+  - [10-Minute Tech Comm](https://www.stitcher.com/podcast/uah-technical-writing/10minute-tech-comm)
+  - [Content Content Podcast](http://edmarsh.com/content-content-podcast/)
+  - [Instrktiv's Insane Instructions Show](https://open.spotify.com/show/0OqluDn7YSjc1cdAULPOB8)
+  - [Knowledgebase Ninjas](https://document360.io/blog/category/knowledgebase-ninjas/)
+  - [The Manuscript](https://podcasts.apple.com/podcast/the-manuscript/id1501843799)
+  - [Grammar Girl](https://www.quickanddirtytips.com/grammar-girl)
+
++ Tech
+  - [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
+
+    The World Through the Lens of Software
+
+  - [Kubernetes Podcast from Google](https://kubernetespodcast.com/)
+
+    A weekly news and interview show with insight from the Kubernetes community
+
+  - [The a16z Podcast](https://a16z.com/a16z-podcast/) ([simplecast](https://a16z.simplecast.com/))
+
+    Tech and culture trends, news, and the future – especially as "software eats the world"
 
 ## 📰 Journals
 
 - [STC Technical Communication](https://www.stc.org/techcomm/)
 - [ACM Communication Design Quarterly Review](https://dl.acm.org/newsletter/sigdoc-cdqr)
 - [Technical Communication Quarterly](https://www.tandfonline.com/loi/htcq20)
+
+## ⭐️ Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/lilin90/awesome-technical-communication.svg)](https://starchart.cc/lilin90/awesome-technical-communication)

@@ -126,12 +126,17 @@ This section lists the selected resources in English.
 
 ## Resources in Chinese 中文资源
 
-+ 技术传播那些事儿 by [Lilian Lee](https://github.com/lilin90)
++ 技术传播那些事儿 (by [Lilian Lee · lilin90](https://github.com/lilin90))
   - [微信公众号](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg) (ID: tc_fun)
   - [知乎专栏](https://zhuanlan.zhihu.com/tc-fun)
-+ [zh.md](https://zh.md/)
++ [zh.md](https://zh.md/) (by [WPH95](https://github.com/WPH95) & [yikeke](https://github.com/yikeke))
   - [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/)（[GitHub 仓库](https://github.com/yikeke/zh-style-guide/blob/master/README.md)）
   - [zhLint 中文技术文档检查工具](https://github.com/tidb-incubator/zh.md)
++ [GitHub 新手指南：极简教程教你如何给开源仓库提 PR](https://www.bilibili.com/video/BV1h5411E7pM) (by [ran-huang](https://github.com/ran-huang) & [CharLotteiu](https://github.com/CharLotteiu))
+  - [Git 与 GitHub 基础概念](https://www.bilibili.com/video/BV1h5411E7pM?p=1)
+  - [如何创建一个 Pull Request (PR)](https://www.bilibili.com/video/BV1h5411E7pM?p=2)
+  - [跟进 PR 的后续操作](https://www.bilibili.com/video/BV1h5411E7pM?p=3)
+  - [批量接受 review 建议和处理 CI 检查](https://www.bilibili.com/video/BV1h5411E7pM?p=4)
 
 ## ⭐️ Stargazers over time
 

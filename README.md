@@ -141,6 +141,8 @@ This section lists the selected resources in English.
 + 书籍
   - [《活文档：与代码共同演进》](https://book.douban.com/subject/35372829/)（译自英文版）
   - [《英语技术写作精要》](https://book.douban.com/subject/35286166/)（复旦大学出版社，但正文语言为英文）
++ 课程
+  - [重庆邮电大学《英语技术写作》慕课](https://www.xueyinonline.com/detail/217108971)
 
 ## ⭐️ Stargazers over time
 

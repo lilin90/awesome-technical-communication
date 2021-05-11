@@ -138,6 +138,9 @@ This section lists the selected resources in English.
   - [如何创建一个 Pull Request (PR)](https://www.bilibili.com/video/BV1h5411E7pM?p=2)
   - [跟进 PR 的后续操作](https://www.bilibili.com/video/BV1h5411E7pM?p=3)
   - [批量接受 review 建议和处理 CI 检查](https://www.bilibili.com/video/BV1h5411E7pM?p=4)
++ 书籍
+  - [《活文档：与代码共同演进》](https://book.douban.com/subject/35372829/)（译自英文版）
+  - [《英语技术写作精要》](https://book.douban.com/subject/35286166/)（复旦大学出版社，但正文语言为英文）
 
 ## ⭐️ Stargazers over time
 

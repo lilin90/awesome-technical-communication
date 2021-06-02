@@ -56,6 +56,8 @@ This section lists the selected resources in English.
 - [Technical Communication: A reader-centered approach](https://www.amazon.com/Technical-Communication-reader-centered-approach-8th/dp/113330981X/)
 - [Living Documentation: Continuous Knowledge Sharing by Design](https://www.amazon.com/Living-Documentation-Cyrille-Martraire/dp/0134689321)
 - [Technical Translation: Usability Strategies for Translating Technical Documentation](https://www.amazon.com/Technical-Translation-Strategies-Translating-Documentation-ebook-dp-B000UJBJLA/dp/B000UJBJLA/)
+- [DITA for Print: A DITA Open Toolkit Workbook](https://www.amazon.com/DITA-Print-Toolkit-Workbook-Second/dp/1937434540)
+- [Design Thinking in Technical Communication: Solving Problems through Making and Collaboration](https://www.amazon.com/Design-Thinking-Technical-Communication-Collaboration/dp/0367478218)
 - [Style: Lessons in Clarity and Grace](https://www.amazon.com/Style-Lessons-Clarity-Grace-12th/dp/0134080416/)
 - [Oxford Guide to Plain English](https://www.amazon.com/Oxford-Guide-Plain-English-Martin/dp/0198844611/)
 - [Microcopy: The Complete Guide](https://www.microcopybook.com/)

@@ -13,7 +13,7 @@ A curated list of awesome resources about [technical communication](https://en.w
   - [📻 Podcasts](#-podcasts)
   - [📰 Journals](#-journals)
 + [Resources in Chinese 中文资源](#resources-in-chinese-中文资源)
-+ [Stargazers over time](#-stargazers-over-time)
++ [Stargazers over time](#stargazers-over-time)
 
 ## Resources in English
 
@@ -146,6 +146,6 @@ This section lists the selected resources in English.
 + 课程
   - [重庆邮电大学《英语技术写作》慕课](https://www.xueyinonline.com/detail/217108971)
 
-## ⭐️ Stargazers over time
+## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/lilin90/awesome-technical-communication.svg)](https://starchart.cc/lilin90/awesome-technical-communication)

@@ -64,12 +64,15 @@ This section lists the selected resources in English.
 - [Laws of UX](https://lawsofux.com/)
   - Book: [Laws of UX: Using Psychology to Design Better Products & Services](https://www.amazon.com/Laws-UX-Principles-Persuasive-Products/dp/149205531X)
 - [Strategic Writing for UX: Drive Engagement, Conversion, and Retention with Every Word](https://www.goodreads.com/book/show/44144500-strategic-writing-for-ux)
+- [The User's Journey: Storymapping Products That People Love](https://www.amazon.com/Users-Journey-Storymapping-Products-People/dp/1933820314)
+- [User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
 - [Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation](https://www.goodreads.com/book/show/6671664-change-by-design)
 - GOV.UK [Service Manual](https://www.gov.uk/service-manual) and [Content Design](https://www.gov.uk/guidance/content-design)
 + DevRel
   - [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292/)
 + Open source
   - [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088/)
+  - [Hackers & Painters: Big Ideas from the Computer Age](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
 + Community
   - [The Art of Community: Building the New Age of Participation](https://www.amazon.com/Art-Community-Building-New-Participation/dp/1449312063/)
   - [People Powered: How Communities Can Supercharge Your Business, Brand, and Teams](https://www.amazon.com/People-Powered-Communities-Supercharge-Business/dp/1400214882/)
@@ -135,6 +138,9 @@ This section lists the selected resources in English.
 + [zh.md](https://zh.md/) (by [WPH95](https://github.com/WPH95) & [yikeke](https://github.com/yikeke))
   - [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/)（[GitHub 仓库](https://github.com/yikeke/zh-style-guide/blob/master/README.md)）
   - [zhLint 中文技术文档检查工具](https://github.com/tidb-incubator/zh.md)
++ TC 互联技术传播与技术写作社区 Technical Communicators in China
+  - [官网](http://www.tc-china.org/)
+  - 微信公众号 (ID: tchulian)
 + [GitHub 新手指南：极简教程教你如何给开源仓库提 PR](https://www.bilibili.com/video/BV1h5411E7pM) (by [ran-huang](https://github.com/ran-huang) & [CharLotteiu](https://github.com/CharLotteiu))
   - [Git 与 GitHub 基础概念](https://www.bilibili.com/video/BV1h5411E7pM?p=1)
   - [如何创建一个 Pull Request (PR)](https://www.bilibili.com/video/BV1h5411E7pM?p=2)

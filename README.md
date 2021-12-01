@@ -59,7 +59,10 @@ This section lists the selected resources in English.
 - [DITA for Print: A DITA Open Toolkit Workbook](https://www.amazon.com/DITA-Print-Toolkit-Workbook-Second/dp/1937434540)
 - [Design Thinking in Technical Communication: Solving Problems through Making and Collaboration](https://www.amazon.com/Design-Thinking-Technical-Communication-Collaboration/dp/0367478218)
 - [Style: Lessons in Clarity and Grace](https://www.amazon.com/Style-Lessons-Clarity-Grace-12th/dp/0134080416/)
+- [The Elements of Style: Classic Edition (2018)](https://www.amazon.com/Elements-Style-Classic-Editors-Chapters/dp/1643990004)
 - [Oxford Guide to Plain English](https://www.amazon.com/Oxford-Guide-Plain-English-Martin/dp/0198844611/)
+- [The Product is Docs: Writing Technical Documentation in a Product Development Group](https://www.amazon.com/Product-Docs-technical-documentation-development/dp/B085KK6G8F)
+- [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161)
 - [Microcopy: The Complete Guide](https://www.microcopybook.com/)
 - [Laws of UX](https://lawsofux.com/)
   - Book: [Laws of UX: Using Psychology to Design Better Products & Services](https://www.amazon.com/Laws-UX-Principles-Persuasive-Products/dp/149205531X)
@@ -149,6 +152,7 @@ This section lists the selected resources in English.
 + 书籍
   - [《活文档：与代码共同演进》](https://book.douban.com/subject/35372829/)（译自英文版）
   - [《英语技术写作精要》](https://book.douban.com/subject/35286166/)（复旦大学出版社，但正文语言为英文）
+  - [《科技文档写作实务》](https://book.douban.com/subject/25784432/)（人民邮电出版社）
 + 课程
   - [重庆邮电大学《英语技术写作》慕课](https://www.xueyinonline.com/detail/217108971)
 

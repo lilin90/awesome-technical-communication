@@ -79,6 +79,7 @@ This section lists the selected resources in English.
 + Community
   - [The Art of Community: Building the New Age of Participation](https://www.amazon.com/Art-Community-Building-New-Participation/dp/1449312063/)
   - [People Powered: How Communities Can Supercharge Your Business, Brand, and Teams](https://www.amazon.com/People-Powered-Communities-Supercharge-Business/dp/1400214882/)
+  - [Superfans: The Easy Way to Stand Out, Grow Your Tribe, and Build a Successful Business](https://www.amazon.com/Superfans-Stand-Tribe-Successful-Business/dp/1949709469) ([Companion Course](https://courses.smartpassiveincome.com/p/superfans-companion))
 
 ### 🌐 Blogs and Websites
 
@@ -93,6 +94,7 @@ This section lists the selected resources in English.
 ### 🎓 Courses and Training
 
 - [Google Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+- [GitLab Technical Writing Fundamentals Course](https://about.gitlab.com/handbook/engineering/ux/technical-writing/fundamentals/)
 - [tcworld TCTrainNet Training Program with Certification](https://www.technical-writing-training-and-certification.com/)
 
 ### 📻 Podcasts

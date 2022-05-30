@@ -52,7 +52,7 @@ This section lists the selected resources in English.
   - [Microsoft Manual of Style for Technical Publications](https://www.amazon.com/Microsoft-Manual-Style-Technical-Publications/dp/0735617465)
 - [The Chicago Manual of Style](https://www.amazon.com/Chicago-Manual-Style-16th/dp/0226104206) ([Online](https://www.chicagomanualofstyle.org/home.html))
 - [ASD Simplified Technical English (ASD-STE100)](http://www.asd-ste100.org/request.html)
-+ [Docs Like Code](https://www.docslikecode.com/book/)
+- [Docs Like Code](https://www.docslikecode.com/book/)
   - [About Docs Like Code](https://www.docslikecode.com/about/)
   - [Docs Like Code Articles](https://www.docslikecode.com/articles/)
 - [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred-dp-1319058523/dp/1319058523/)
@@ -74,12 +74,12 @@ This section lists the selected resources in English.
 - [User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
 - [Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation](https://www.goodreads.com/book/show/6671664-change-by-design)
 - GOV.UK [Service Manual](https://www.gov.uk/service-manual) and [Content Design](https://www.gov.uk/guidance/content-design)
-+ DevRel
+- DevRel
   - [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292/)
-+ Open source
+- Open source
   - [The Cathedral & the Bazaar: Musings on Linux and Open Source by an Accidental Revolutionary](https://www.amazon.com/Cathedral-Bazaar-Musings-Accidental-Revolutionary/dp/0596001088/)
   - [Hackers & Painters: Big Ideas from the Computer Age](https://www.amazon.com/Hackers-Painters-Big-Ideas-Computer/dp/1449389554)
-+ Community
+- Community
   - [The Art of Community: Building the New Age of Participation](https://www.amazon.com/Art-Community-Building-New-Participation/dp/1449312063/)
   - [People Powered: How Communities Can Supercharge Your Business, Brand, and Teams](https://www.amazon.com/People-Powered-Communities-Supercharge-Business/dp/1400214882/)
   - [Superfans: The Easy Way to Stand Out, Grow Your Tribe, and Build a Successful Business](https://www.amazon.com/Superfans-Stand-Tribe-Successful-Business/dp/1949709469) ([Companion Course](https://courses.smartpassiveincome.com/p/superfans-companion))

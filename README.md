@@ -52,6 +52,9 @@ This section lists the selected resources in English.
   - [Microsoft Manual of Style for Technical Publications](https://www.amazon.com/Microsoft-Manual-Style-Technical-Publications/dp/0735617465)
 - [The Chicago Manual of Style](https://www.amazon.com/Chicago-Manual-Style-16th/dp/0226104206) ([Online](https://www.chicagomanualofstyle.org/home.html))
 - [ASD Simplified Technical English (ASD-STE100)](http://www.asd-ste100.org/request.html)
++ [Docs Like Code](https://www.docslikecode.com/book/)
+  - [About Docs Like Code](https://www.docslikecode.com/about/)
+  - [Docs Like Code Articles](https://www.docslikecode.com/articles/)
 - [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred-dp-1319058523/dp/1319058523/)
 - [Technical Communication: A reader-centered approach](https://www.amazon.com/Technical-Communication-reader-centered-approach-8th/dp/113330981X/)
 - [Living Documentation: Continuous Knowledge Sharing by Design](https://www.amazon.com/Living-Documentation-Cyrille-Martraire/dp/0134689321)
@@ -96,6 +99,7 @@ This section lists the selected resources in English.
 - [Google Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
 - [GitLab Technical Writing Fundamentals Course](https://about.gitlab.com/handbook/engineering/ux/technical-writing/fundamentals/)
 - [tcworld TCTrainNet Training Program with Certification](https://www.technical-writing-training-and-certification.com/)
+- [API Documentation Course](https://idratherbewriting.com/learnapidoc/) | I'd Rather Be Writing: a guide for technical writers and engineers
 
 ### 📻 Podcasts
 

@@ -23,6 +23,7 @@ This section lists the selected resources in English.
 
 - [Write the Docs](https://www.writethedocs.org/)
 - [STC](https://www.stc.org/) (Society for Technical Communication)
+  - [STC Summit 2022 session topics](https://summit.stc.org/wp-content/uploads/2022/05/SummitProgram22_Print.pdf)
 - [tcworld](http://www.tcworld.info/)
   - [tcworld China](https://www.tcworld-china.cn/en/)
   - [tcworld India](https://tcworld-india.com/)
@@ -66,6 +67,7 @@ This section lists the selected resources in English.
 - [Oxford Guide to Plain English](https://www.amazon.com/Oxford-Guide-Plain-English-Martin/dp/0198844611/)
 - [The Product is Docs: Writing Technical Documentation in a Product Development Group](https://www.amazon.com/Product-Docs-technical-documentation-development/dp/B085KK6G8F)
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161)
+- [API Stylebook: API Design Guidelines of some companies and government agencies](http://apistylebook.com/design/guidelines/)
 - [Microcopy: The Complete Guide](https://www.microcopybook.com/)
 - [Laws of UX](https://lawsofux.com/)
   - Book: [Laws of UX: Using Psychology to Design Better Products & Services](https://www.amazon.com/Laws-UX-Principles-Persuasive-Products/dp/149205531X)
@@ -98,6 +100,7 @@ This section lists the selected resources in English.
 
 - [Google Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
 - [GitLab Technical Writing Fundamentals Course](https://about.gitlab.com/handbook/engineering/ux/technical-writing/fundamentals/)
+- [Certified Professional Technical Communicator (CPTC™)](https://apmg-international.com/product/cptc): a certification scheme developed by APMG [on behalf of the Society for Technical Communication](https://www.stc.org/certification/foundation-certification/) (STC)
 - [tcworld TCTrainNet Training Program with Certification](https://www.technical-writing-training-and-certification.com/)
 - [API Documentation Course](https://idratherbewriting.com/learnapidoc/) | I'd Rather Be Writing: a guide for technical writers and engineers
 

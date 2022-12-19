@@ -163,7 +163,7 @@ This section lists the selected resources in English.
   - [《英语技术写作精要》](https://book.douban.com/subject/35286166/)（复旦大学出版社，但正文语言为英文）
   - [《科技文档写作实务》](https://book.douban.com/subject/25784432/)（人民邮电出版社）
 + 课程
-  - [重庆邮电大学《英语技术写作》慕课](https://www.xueyinonline.com/detail/217108971)
+  - [重庆邮电大学《英语技术写作》慕课](https://www.xueyinonline.com/detail/227533004)
 + 高校
   - [开设技术传播或技术写作课程的中国高校](https://github.com/galty687/tc-universities)
 

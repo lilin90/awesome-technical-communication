@@ -147,9 +147,9 @@ This section lists the selected resources in English.
 + [zh.md](https://zh.md/) (by [WPH95](https://github.com/WPH95) & [yikeke](https://github.com/yikeke))
   - [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/)（[GitHub 仓库](https://github.com/yikeke/zh-style-guide/blob/master/README.md)）
   - [zhLint 中文技术文档检查工具](https://github.com/tidb-incubator/zh.md)
-+ Joy的博客
-  - [简书] Joy的未来十年 (https://www.jianshu.com/u/77358f1c74b3)
-  - [知乎] 思烤 (https://www.zhihu.com/people/si-kao-98/posts)
++ 技术文档写作博客 (by Joy)
+  - [简书专题](https://www.jianshu.com/c/fb20b1625f14)（[Joy的未来十年](https://www.jianshu.com/u/77358f1c74b3)）
+  - [知乎专栏](https://www.zhihu.com/column/c_168580756)
 + TC 互联技术传播与技术写作社区 Technical Communicators in China
   - [官网](http://www.tc-china.org/)
   - 微信公众号 (ID: tchulian)

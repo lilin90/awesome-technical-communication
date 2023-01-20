@@ -103,6 +103,7 @@ This section lists the selected resources in English.
 - [Certified Professional Technical Communicator (CPTC™)](https://apmg-international.com/product/cptc): a certification scheme developed by APMG [on behalf of the Society for Technical Communication](https://www.stc.org/certification/foundation-certification/) (STC)
 - [tcworld TCTrainNet Training Program with Certification](https://www.technical-writing-training-and-certification.com/)
 - [API Documentation Course](https://idratherbewriting.com/learnapidoc/) | I'd Rather Be Writing: a guide for technical writers and engineers
+- [Technical Writer HQ](https://technicalwriterhq.com/technical-writing-certification-courses/)
 
 ### 📻 Podcasts
 

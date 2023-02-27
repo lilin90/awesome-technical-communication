@@ -46,6 +46,7 @@ This section lists the selected resources in English.
 + Google
   - [Google Developer Documentation Style Guide](https://developers.google.cn/style/)
   - [Google Material Design Writing Guidelines](https://material.io/design/communication/writing.html#principles)
+  - [Material's Communication Principles: Intro to UX Writing](https://codelabs.developers.google.com/codelabs/material-communication-guidance#0) (Google Developers Codelabs)
 + Microsoft
   - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
   + [Microsoft Localization Style Guides](https://www.microsoft.com/en-us/language/styleguides) for Different Languages

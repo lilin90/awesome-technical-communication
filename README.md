@@ -104,7 +104,7 @@ This section lists the selected resources in English.
 - [tcworld TCTrainNet Training Program with Certification](https://www.technical-writing-training-and-certification.com/)
 - [API Documentation Course](https://idratherbewriting.com/learnapidoc/) | I'd Rather Be Writing: a guide for technical writers and engineers
 - [Technical Writer HQ](https://technicalwriterhq.com/technical-writing-certification-courses/)
-- [Technical Writing Essentials - Allison Course](https://alison.com/course/technical-writing-essentials)
+- [Technical Writing Essentials](https://alison.com/course/technical-writing-essentials) (Alison Course)
 
 ### 📻 Podcasts
 

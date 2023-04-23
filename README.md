@@ -158,7 +158,10 @@ This section lists the selected resources in English.
   - [知乎专栏](https://www.zhihu.com/column/c_168580756)
 + TC 互联技术传播与技术写作社区 Technical Communicators in China
   - [官网](http://www.tc-china.org/)
-  - 微信公众号 (ID: tchulian)
+  - 微信公众号：infomagic技术传播与技术写作 (ID: infomagic123)
++ tcworld 中国技术传播大会
+  - 大会官网：[中文版](https://www.tcworld-china.cn/)，[英文版](https://www.tcworld-china.cn/en/)
+  - 微信公众号：tcworld技术传播大会 (ID: tcworld-china)
 + [GitHub 新手指南：极简教程教你如何给开源仓库提 PR](https://www.bilibili.com/video/BV1h5411E7pM) (by [ran-huang](https://github.com/ran-huang) & [CharLotteiu](https://github.com/CharLotteiu))
   - [Git 与 GitHub 基础概念](https://www.bilibili.com/video/BV1h5411E7pM?p=1)
   - [如何创建一个 Pull Request (PR)](https://www.bilibili.com/video/BV1h5411E7pM?p=2)

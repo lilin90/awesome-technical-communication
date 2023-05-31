@@ -52,6 +52,7 @@ This section lists the selected resources in English.
   + [Microsoft Localization Style Guides](https://www.microsoft.com/en-us/language/styleguides) for Different Languages
     - [Microsoft Chinese (Simplified) Style Guide](http://download.microsoft.com/download/4/c/a/4ca95933-3496-4793-9d77-a89b60a8312c/zho-chn-styleguide.pdf)
   - [Microsoft Manual of Style for Technical Publications](https://www.amazon.com/Microsoft-Manual-Style-Technical-Publications/dp/0735617465)
+- [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 - [The Chicago Manual of Style](https://www.amazon.com/Chicago-Manual-Style-16th/dp/0226104206) ([Online](https://www.chicagomanualofstyle.org/home.html))
 - [ASD Simplified Technical English (ASD-STE100)](http://www.asd-ste100.org/request.html)
 - [Docs Like Code](https://www.docslikecode.com/book/)

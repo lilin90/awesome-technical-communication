@@ -148,21 +148,26 @@ This section lists the selected resources in English.
 
 ## Resources in Chinese 中文资源
 
-+ 技术传播那些事儿 (by [Lilian Lee · lilin90](https://github.com/lilin90))
++ 技术传播那些事儿 (by [李琳 Lilian Lee · lilin90](https://github.com/lilin90))
   - [微信公众号](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg) (ID: tc_fun)
   - [知乎专栏](https://zhuanlan.zhihu.com/tc-fun)
-+ [zh.md](https://zh.md/) (by [WPH95](https://github.com/WPH95) & [yikeke](https://github.com/yikeke))
-  - [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/)（[GitHub 仓库](https://github.com/yikeke/zh-style-guide/blob/master/README.md)）
-  - [zhLint 中文技术文档检查工具](https://github.com/tidb-incubator/zh.md)
-+ 技术文档写作博客 (by Joy)
-  - [简书专题](https://www.jianshu.com/c/fb20b1625f14)（[Joy的未来十年](https://www.jianshu.com/u/77358f1c74b3)）
-  - [知乎专栏](https://www.zhihu.com/column/c_168580756)
-+ TC 互联技术传播与技术写作社区 Technical Communicators in China
++ 技术传播李琳：微信公众号 (ID: TC-Lilin) by 李琳 Emma
++ TC 互联技术传播与技术写作社区
   - [官网](http://www.tc-china.org/)
   - 微信公众号：infomagic技术传播与技术写作 (ID: infomagic123)
 + tcworld 中国技术传播大会
   - 大会官网：[中文版](https://www.tcworld-china.cn/)，[英文版](https://www.tcworld-china.cn/en/)
   - 微信公众号：tcworld技术传播大会 (ID: tcworld-china)
++ 中国技术传播：微信公众号 (ID: CTCA_CHINA)
++ [技术传播沙龙](https://techcommsalon.com/index.html)
+  - 讨论前沿技术，分享行业动态
+  - 形式：线上线下结合
++ 北京大学技术传播协会：微信公众号 (ID: pkutca)
++ 科多思技术传播社区：微信公众号 (ID: kudoschina)
++ [技术文档写作·知乎专栏](https://www.zhihu.com/column/c_168580756) by Joy 思烤
++ [zh.md](https://zh.md/) (by [WPH95](https://github.com/WPH95) & [yikeke](https://github.com/yikeke))
+  - [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/)（[GitHub 仓库](https://github.com/yikeke/zh-style-guide/blob/master/README.md)）
+  - [zhLint 中文技术文档检查工具](https://github.com/tidb-incubator/zh.md)
 + [GitHub 新手指南：极简教程教你如何给开源仓库提 PR](https://www.bilibili.com/video/BV1h5411E7pM) (by [ran-huang](https://github.com/ran-huang) & [CharLotteiu](https://github.com/CharLotteiu))
   - [Git 与 GitHub 基础概念](https://www.bilibili.com/video/BV1h5411E7pM?p=1)
   - [如何创建一个 Pull Request (PR)](https://www.bilibili.com/video/BV1h5411E7pM?p=2)

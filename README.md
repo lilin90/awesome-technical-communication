@@ -97,6 +97,7 @@ This section lists the selected resources in English.
 - [ClickHelp Technical Writing Blog](https://clickhelp.com/clickhelp-technical-writing-blog/)
 - [Scriptorium Blog](https://www.scriptorium.com/blog/)
 - [ffeathers](https://ffeathers.wordpress.com/)
+- [indoition Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm)
 
 ### 🎓 Courses and Training
 

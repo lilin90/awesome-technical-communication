@@ -184,6 +184,10 @@ This section lists the selected resources in English.
 + 开课高校
   - [开设技术传播或技术写作课程的中国高校](https://github.com/galty687/tc-universities)
 
+## Contributors
+
+<img src="https://api.vaunt.dev/v1/github/entities/lilin90/repositories/awesome-technical-communication/contributors?format=svg&limit=4" width="600" />
+
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/lilin90/awesome-technical-communication.svg)](https://starchart.cc/lilin90/awesome-technical-communication)

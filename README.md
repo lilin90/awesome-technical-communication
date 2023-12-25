@@ -57,6 +57,8 @@ This section lists the selected resources in English.
 + Apple
   - [Human Interface Guidelines | Apple Developer Documentation](https://developer.apple.com/design/human-interface-guidelines)
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
+- [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
+- [MongoDB Documentation Style Guide](https://www.mongodb.com/docs/meta/style-guide/)
 - [The Chicago Manual of Style](https://www.amazon.com/Chicago-Manual-Style-16th/dp/0226104206) ([Online](https://www.chicagomanualofstyle.org/home.html))
 - [ASD Simplified Technical English (ASD-STE100)](http://www.asd-ste100.org/request.html)
 - [Docs Like Code](https://www.docslikecode.com/book/)

@@ -93,6 +93,7 @@ This section lists the selected resources in English.
   - [The Art of Community: Building the New Age of Participation](https://www.amazon.com/Art-Community-Building-New-Participation/dp/1449312063/)
   - [People Powered: How Communities Can Supercharge Your Business, Brand, and Teams](https://www.amazon.com/People-Powered-Communities-Supercharge-Business/dp/1400214882/)
   - [Superfans: The Easy Way to Stand Out, Grow Your Tribe, and Build a Successful Business](https://www.amazon.com/Superfans-Stand-Tribe-Successful-Business/dp/1949709469) ([Companion Course](https://courses.smartpassiveincome.com/p/superfans-companion))
+  - [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) ([epub](https://jamesg.blog/book.epub))
 
 ### 🌐 Blogs and Websites
 

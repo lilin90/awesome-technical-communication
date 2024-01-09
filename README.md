@@ -149,7 +149,9 @@ This section lists the selected resources in English.
 
 ### 📰 Journals
 
-- [STC Technical Communication](https://www.stc.org/techcomm/)
++ [Technical Communication](https://www.stc.org/techcomm/) (Journal of the Society for Technical Communication)
+  - [Who Are China’s Technical Communicators? A Survey on the State of Diversity, Equity,
+and Inclusion of the Profession](https://doi.org/10.55177/tc583549) ([PDF](/resources/Dong&Gao-TechComm%20Journal-2023%20with%20covers.pdf))
 - [ACM Communication Design Quarterly Review](https://dl.acm.org/newsletter/sigdoc-cdqr)
 - [Technical Communication Quarterly](https://www.tandfonline.com/loi/htcq20)
 
@@ -192,7 +194,7 @@ This section lists the selected resources in English.
 
 ## Contributors
 
-<img src="https://api.vaunt.dev/v1/github/entities/lilin90/repositories/awesome-technical-communication/contributors?format=svg&limit=4" width="600" />
+<img src="https://api.vaunt.dev/v1/github/entities/lilin90/repositories/awesome-technical-communication/contributors?format=svg&limit=5" width="600" />
 
 ## Stargazers over time
 

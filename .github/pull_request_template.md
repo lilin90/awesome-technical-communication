@@ -2,7 +2,7 @@
 
 ### What is changed, added or deleted? (Required)
 
-<!--Tell what you did and why.-->
+Added two personal TC blogs.
 
 ### What is the reference link(s)?
 

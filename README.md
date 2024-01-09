@@ -160,6 +160,9 @@ This section lists the selected resources in English.
     - [微信公众号](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg) (ID: tc_fun)
     - [知乎专栏](https://zhuanlan.zhihu.com/tc-fun)
   + 技术传播李琳：微信公众号 (ID: TC-Lilin) by 李琳 Emma
+  + Joy的未来十年 [by 王欢 Joy Wang]
+    - [简书](https://www.jianshu.com/u/77358f1c74b3)
+    - [知乎专栏](hhttps://www.zhihu.com/column/c_168580756) (ID: 思烤)
   + TC 互联技术传播与技术写作社区
     - [官网](http://www.tc-china.org/)
     - 微信公众号：infomagic技术传播与技术写作 (ID: infomagic123)

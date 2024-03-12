@@ -44,7 +44,7 @@ This section lists the selected resources in English.
   - [IBM Design Language](https://www.ibm.com/design/language/)
   - [IBM Carbon Design System Content Guidelines](https://www.carbondesignsystem.com/)
 + Google
-  - [Google Developer Documentation Style Guide](https://developers.google.cn/style/)
+  - [Google Developer Documentation Style Guide](https://developers.google.com/style/) ([cn](https://developers.google.cn/style/))
   - [Google Material Design Writing Guidelines](https://material.io/design/communication/writing.html#principles)
   - [Material's Communication Principles: Intro to UX Writing](https://codelabs.developers.google.com/codelabs/material-communication-guidance#0) (Google Developers Codelabs)
 + Microsoft
@@ -55,7 +55,9 @@ This section lists the selected resources in English.
   - [Windows Admin Center UI text and design style guide](https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/extend/guides/ui-text-style-guide)
   - [Azure docs Markdown templates](https://github.com/MicrosoftDocs/azure-docs/tree/main/markdown%20templates/aml-templates)
 + Apple
+  - [Apple Style Guide](https://help.apple.com/applestyleguide/)
   - [Human Interface Guidelines | Apple Developer Documentation](https://developer.apple.com/design/human-interface-guidelines)
+- [Red Hat supplementary style guide for product documentation](https://redhat-documentation.github.io/supplementary-style-guide/)
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 - [MongoDB Documentation Style Guide](https://www.mongodb.com/docs/meta/style-guide/)

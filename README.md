@@ -63,9 +63,6 @@ This section lists the selected resources in English.
 - [MongoDB Documentation Style Guide](https://www.mongodb.com/docs/meta/style-guide/)
 - [The Chicago Manual of Style](https://www.amazon.com/Chicago-Manual-Style-16th/dp/0226104206) ([Online](https://www.chicagomanualofstyle.org/home.html))
 - [ASD Simplified Technical English (ASD-STE100)](http://www.asd-ste100.org/request.html)
-- [Docs Like Code](https://www.docslikecode.com/book/)
-  - [About Docs Like Code](https://www.docslikecode.com/about/)
-  - [Docs Like Code Articles](https://www.docslikecode.com/articles/)
 - Documentation Framework
   - [Documentation System](https://docs.divio.com/documentation-system/) | [Diátaxis](https://diataxis.fr/), by Daniele Procida
     - Four forms of documentation: tutorials, how-to guides, technical reference, and explanation.
@@ -73,6 +70,9 @@ This section lists the selected resources in English.
     - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework): a systematic approach to creating better documentation.
   - [Documentation topic types (CTRT)](https://docs.gitlab.com/ee/development/documentation/topic_types/) | GitLab
     - Four primary topic types: concept, task, reference, troubleshooting.
+- [Docs Like Code](https://www.docslikecode.com/book/)
+  - [About Docs Like Code](https://www.docslikecode.com/about/)
+  - [Docs Like Code Articles](https://www.docslikecode.com/articles/)
 - [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred-dp-1319058523/dp/1319058523/)
 - [Technical Communication: A reader-centered approach](https://www.amazon.com/Technical-Communication-reader-centered-approach-8th/dp/113330981X/)
 - [Living Documentation: Continuous Knowledge Sharing by Design](https://www.amazon.com/Living-Documentation-Cyrille-Martraire/dp/0134689321)

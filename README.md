@@ -186,9 +186,8 @@ and Inclusion of the Profession](https://doi.org/10.55177/tc583549) ([PDF](/reso
   + 北京大学技术传播协会：微信公众号 (ID: pkutca)
   + 科多思技术传播社区：微信公众号 (ID: kudoschina)
   + [技术文档写作·知乎专栏](https://www.zhihu.com/column/c_168580756) by Joy 思烤
-  + [zh.md](https://zh.md/) (by [WPH95](https://github.com/WPH95) & [yikeke](https://github.com/yikeke))
-    - [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/)（[GitHub 仓库](https://github.com/yikeke/zh-style-guide/blob/master/README.md)）
-    - [zhLint 中文技术文档检查工具](https://github.com/tidb-incubator/zh.md)
+  + [中文技术文档写作风格指南](https://zh-style-guide.readthedocs.io/zh_CN/latest/)（[GitHub 仓库](https://github.com/yikeke/zh-style-guide)）by [yikeke](https://github.com/yikeke)
+  + [zhLint 中文技术文档检查工具](https://github.com/tidb-incubator/zh.md)
   + [GitHub 新手指南：极简教程教你如何给开源仓库提 PR](https://www.bilibili.com/video/BV1h5411E7pM) (by [ran-huang](https://github.com/ran-huang) & [CharLotteiu](https://github.com/CharLotteiu))
     - [Git 与 GitHub 基础概念](https://www.bilibili.com/video/BV1h5411E7pM?p=1)
     - [如何创建一个 Pull Request (PR)](https://www.bilibili.com/video/BV1h5411E7pM?p=2)

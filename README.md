@@ -205,3 +205,10 @@ and Inclusion of the Profession](https://doi.org/10.55177/tc583549) ([PDF](/reso
 ## Stargazers over time
 
 [![Stargazers over time](https://starchart.cc/lilin90/awesome-technical-communication.svg)](https://starchart.cc/lilin90/awesome-technical-communication)
+
+<a href="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map?repo_id=244162340&activity=stars" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=244162340&activity=stars&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Star Geographical Distribution of lilin90/awesome-technical-communication" src="https://next.ossinsight.io/widgets/official/analyze-repo-stars-map/thumbnail.png?repo_id=244162340&activity=stars&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a>

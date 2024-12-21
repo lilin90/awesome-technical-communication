@@ -73,6 +73,7 @@ This section lists the selected resources in English.
 - [Docs Like Code](https://www.docslikecode.com/book/)
   - [About Docs Like Code](https://www.docslikecode.com/about/)
   - [Docs Like Code Articles](https://www.docslikecode.com/articles/)
+- [Technical Writer Roadmap](https://roadmap.sh/technical-writer) | [roadmap.sh](https://roadmap.sh/)
 - [The Handbook of Technical Writing](https://www.amazon.com/Handbook-Technical-Writing-Gerald-Alred-dp-1319058523/dp/1319058523/)
 - [Technical Communication: A reader-centered approach](https://www.amazon.com/Technical-Communication-reader-centered-approach-8th/dp/113330981X/)
 - [Living Documentation: Continuous Knowledge Sharing by Design](https://www.amazon.com/Living-Documentation-Cyrille-Martraire/dp/0134689321)

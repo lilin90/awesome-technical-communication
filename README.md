@@ -22,6 +22,8 @@ This section lists the selected resources in English.
 ### 🏫 Organizations
 
 - [Write the Docs](https://www.writethedocs.org/)
+  - [Write the Docs · YouTube channel](https://www.youtube.com/@writethedocs): conference videos
+<!--  - [Write the Docs Podcast & Meetups](https://www.youtube.com/@writethedocspodcastmeetups7997): podcast and meetup videos -->
 - [STC](https://www.stc.org/) (Society for Technical Communication)
   - [STC Summit 2022 session topics](https://summit.stc.org/wp-content/uploads/2022/05/SummitProgram22_Print.pdf)
 - [tcworld](http://www.tcworld.info/)

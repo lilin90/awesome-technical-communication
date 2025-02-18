@@ -21,3 +21,5 @@ If you have something awesome to contribute to the [Awesome Technical Communicat
     1. Navigate to the original upstream repository (this repo).
     2. Click the **Compare & pull request** button.
     3. Edit the PR description and submit your PR.
+
+For more details, see [Creating a pull request from a fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork) or [Creating a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) on GitHub Docs.

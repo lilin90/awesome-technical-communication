@@ -18,6 +18,6 @@ If you have something awesome to contribute to the [Awesome Technical Communicat
 
 8. Submit a Pull Request.
 
-    1. Navigate to the original repository where you created your fork.
+    1. Navigate to the original upstream repository (this repo).
     2. Click the **Compare & pull request** button.
     3. Edit the PR description and submit your PR.

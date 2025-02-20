@@ -81,7 +81,6 @@ This section lists the selected resources in English.
 - [Living Documentation: Continuous Knowledge Sharing by Design](https://www.amazon.com/Living-Documentation-Cyrille-Martraire/dp/0134689321)
 - [Technical Translation: Usability Strategies for Translating Technical Documentation](https://www.amazon.com/Technical-Translation-Strategies-Translating-Documentation-ebook-dp-B000UJBJLA/dp/B000UJBJLA/)
 - [DITA for Print: A DITA Open Toolkit Workbook](https://www.amazon.com/DITA-Print-Toolkit-Workbook-Second/dp/1937434540)
-- [Design Thinking in Technical Communication: Solving Problems through Making and Collaboration](https://www.amazon.com/Design-Thinking-Technical-Communication-Collaboration/dp/0367478218)
 - [Style: Lessons in Clarity and Grace](https://www.amazon.com/Style-Lessons-Clarity-Grace-12th/dp/0134080416/)
 - [The Elements of Style: Classic Edition (2018)](https://www.amazon.com/Elements-Style-Classic-Editors-Chapters/dp/1643990004)
 - [Oxford Guide to Plain English](https://www.amazon.com/Oxford-Guide-Plain-English-Martin/dp/0198844611/)
@@ -96,7 +95,10 @@ This section lists the selected resources in English.
 - [The User's Journey: Storymapping Products That People Love](https://www.amazon.com/Users-Journey-Storymapping-Products-People/dp/1933820314)
 - [User Story Mapping: Discover the Whole Story, Build the Right Product](https://www.amazon.com/User-Story-Mapping-Discover-Product/dp/1491904909)
 - [Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation](https://www.goodreads.com/book/show/6671664-change-by-design)
+- [Design Thinking in Technical Communication: Solving Problems through Making and Collaboration](https://www.amazon.com/Design-Thinking-Technical-Communication-Collaboration/dp/0367478218)
 - GOV.UK [Service Manual](https://www.gov.uk/service-manual) and [Content Design](https://www.gov.uk/guidance/content-design)
+- [Epic Content Marketing, Second Edition: Break through the Clutter with a Different Story, Get the Most Out of Your Content, and Build a Community in Web3](https://www.goodreads.com/book/show/61900383-epic-content-marketing-second-edition)
+- [Inbound Marketing, Revised and Updated: Attract, Engage, and Delight Customers Online](https://www.goodreads.com/book/show/20309020-inbound-marketing-revised-and-updated)
 - DevRel
   - [Ask Your Developer: How to Harness the Power of Software Developers and Win in the 21st Century](https://www.amazon.com/Ask-Your-Developer-Software-Developers/dp/0063018292/)
 - Open source

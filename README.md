@@ -1,7 +1,7 @@
 <!-- omit in toc -->
 # Awesome Technical Communication [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources about [technical communication](https://en.wikipedia.org/wiki/Technical_communication), including but not limited to [technical writing](https://en.wikipedia.org/wiki/Technical_writing), [technical translation](https://en.wikipedia.org/wiki/Technical_translation), [UX](https://en.wikipedia.org/wiki/User_experience) & [UI](https://en.wikipedia.org/wiki/User_interface_design), [content strategy](https://en.wikipedia.org/wiki/Content_strategy), [content marketing](https://en.wikipedia.org/wiki/Content_marketing), [DevRel (developer relations)](https://developerrelations.com/what-is-developer-relations), [developer marketing](https://developerrelations.com/what-is-b2d-or-developer-marketing), [open source](https://en.wikipedia.org/wiki/Open_source), and community.
+A curated list of awesome resources about [technical communication](https://en.wikipedia.org/wiki/Technical_communication), including but not limited to [technical writing](https://en.wikipedia.org/wiki/Technical_writing), [technical translation](https://en.wikipedia.org/wiki/Technical_translation), [UX](https://en.wikipedia.org/wiki/User_experience) & [UI](https://en.wikipedia.org/wiki/User_interface_design), [content strategy](https://en.wikipedia.org/wiki/Content_strategy), [content marketing](https://en.wikipedia.org/wiki/Content_marketing), [DevRel (developer relations)](https://developerrelations.com/guides/what-is-developer-relations/), [open source](https://en.wikipedia.org/wiki/Open_source), and community.
 
 **Table of Contents:**
 
@@ -23,8 +23,9 @@ This section lists the selected resources in English.
 
 - [Write the Docs](https://www.writethedocs.org/)
   - [Write the Docs · YouTube channel](https://www.youtube.com/@writethedocs): conference videos
+  - [WriteTheDocsAus · YouTube channel](https://www.youtube.com/@WriteTheDocsAus)
 <!--  - [Write the Docs Podcast & Meetups](https://www.youtube.com/@writethedocspodcastmeetups7997): podcast and meetup videos -->
-- [STC](https://www.stc.org/) (Society for Technical Communication)
+- [STC](https://www.stc.org/) (Society for Technical Communication, [closed in Jan 2025](https://en.wikipedia.org/wiki/Society_for_Technical_Communication))
   - [STC Summit 2022 session topics](https://summit.stc.org/wp-content/uploads/2022/05/SummitProgram22_Print.pdf)
 - [tcworld](http://www.tcworld.info/)
   - [tcworld China](https://www.tcworld-china.cn/en/)
@@ -50,12 +51,11 @@ This section lists the selected resources in English.
   - [Google Material Design Writing Guidelines](https://material.io/design/communication/writing.html#principles)
   - [Material's Communication Principles: Intro to UX Writing](https://codelabs.developers.google.com/codelabs/material-communication-guidance#0) (Google Developers Codelabs)
 + Microsoft
-  - [Microsoft Writing Style Guide](https://docs.microsoft.com/en-us/style-guide/welcome/)
-  + [Microsoft Localization Style Guides](https://www.microsoft.com/en-us/language/styleguides) for Different Languages
-    - [Microsoft Chinese (Simplified) Style Guide](http://download.microsoft.com/download/4/c/a/4ca95933-3496-4793-9d77-a89b60a8312c/zho-chn-styleguide.pdf)
+  - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)
+  + [Microsoft Localization Style Guides](https://learn.microsoft.com/en-us/globalization/reference/microsoft-style-guides) for Different Languages
+    - [Microsoft Chinese (Simplified) Style Guide](https://aka.ms/chinese-simplified-styleguide)
   - [Microsoft Manual of Style for Technical Publications](https://www.amazon.com/Microsoft-Manual-Style-Technical-Publications/dp/0735617465)
   - [Windows Admin Center UI text and design style guide](https://learn.microsoft.com/en-us/windows-server/manage/windows-admin-center/extend/guides/ui-text-style-guide)
-  - [Azure docs Markdown templates](https://github.com/MicrosoftDocs/azure-docs/tree/main/markdown%20templates/aml-templates)
 + Apple
   - [Apple Style Guide](https://help.apple.com/applestyleguide/)
   - [Human Interface Guidelines | Apple Developer Documentation](https://developer.apple.com/design/human-interface-guidelines)
@@ -85,6 +85,7 @@ This section lists the selected resources in English.
 - [The Elements of Style: Classic Edition (2018)](https://www.amazon.com/Elements-Style-Classic-Editors-Chapters/dp/1643990004)
 - [Oxford Guide to Plain English](https://www.amazon.com/Oxford-Guide-Plain-English-Martin/dp/0198844611/)
 - [The Product is Docs: Writing Technical Documentation in a Product Development Group](https://www.amazon.com/Product-Docs-technical-documentation-development/dp/B085KK6G8F)
+- [Docs as Tests: A Strategy for Resilient Technical Documentation](https://www.amazon.com/Docs-Tests-Resilient-Technical-Documentation/dp/0994169361)
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161)
 - [API Stylebook: API Design Guidelines of some companies and government agencies](http://apistylebook.com/design/guidelines/)
 - [Software Technical Writing: A Guidebook](https://jamesg.blog/book.pdf) ([epub](https://jamesg.blog/book.epub), [discussions on Hacker News](https://news.ycombinator.com/item?id=38865416))
@@ -125,7 +126,6 @@ This section lists the selected resources in English.
 
 - [Google Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
 - [GitLab Technical Writing Fundamentals Course](https://about.gitlab.com/handbook/engineering/ux/technical-writing/fundamentals/)
-- [Certified Professional Technical Communicator (CPTC™)](https://apmg-international.com/product/cptc): a certification scheme developed by APMG [on behalf of the Society for Technical Communication](https://www.stc.org/certification/foundation-certification/) (STC)
 - [tcworld TCTrainNet Training Program with Certification](https://www.technical-writing-training-and-certification.com/)
 - [API Documentation Course](https://idratherbewriting.com/learnapidoc/) | I'd Rather Be Writing: a guide for technical writers and engineers
 - [Technical Writer HQ](https://technicalwriterhq.com/technical-writing-certification-courses/)
@@ -143,7 +143,7 @@ This section lists the selected resources in English.
   - [The Content Strategy Experts Podcast](https://www.scriptorium.com/content-strategy-experts-podcast/)
   - [Wireframe (Adobe)](https://podcasts.apple.com/us/podcast/wireframe/id1437677219)
   - [The Not-Boring Tech Writer Podcast](https://www.thenotboringtechwriter.com/)
-  - [10-Minute Tech Comm](https://www.stitcher.com/podcast/uah-technical-writing/10minute-tech-comm)
+  - [10-Minute Tech Comm](https://tenminutetechcomm.com/)
   - [Content Content Podcast](http://edmarsh.com/content-content-podcast/)
   - [Instrktiv's Insane Instructions Show](https://open.spotify.com/show/0OqluDn7YSjc1cdAULPOB8)
   - [Knowledgebase Ninjas](https://document360.io/blog/category/knowledgebase-ninjas/)
@@ -167,9 +167,9 @@ This section lists the selected resources in English.
 
 + [Technical Communication](https://www.stc.org/techcomm/) (Journal of the Society for Technical Communication)
   - [Who Are China’s Technical Communicators? A Survey on the State of Diversity, Equity,
-and Inclusion of the Profession](https://doi.org/10.55177/tc583549) ([PDF](/resources/Dong&Gao-TechComm%20Journal-2023%20with%20covers.pdf))
-- [ACM Communication Design Quarterly Review](https://dl.acm.org/newsletter/sigdoc-cdqr)
-- [Technical Communication Quarterly](https://www.tandfonline.com/loi/htcq20)
+and Inclusion of the Profession](https://doi.org/10.55177/tc583549)<!--([PDF](/resources/Dong&Gao-TechComm%20Journal-2023%20with%20covers.pdf))-->
+- [ACM Communication Design Quarterly Review](https://dl.acm.org/newsletter/sigdoc-cdq)
+- [Technical Communication Quarterly](https://www.tandfonline.com/journals/htcq20)
 
 ## Resources in Chinese 中文资源
 
@@ -178,9 +178,7 @@ and Inclusion of the Profession](https://doi.org/10.55177/tc583549) ([PDF](/reso
     - [微信公众号](https://res.cloudinary.com/lilian-photos/image/upload/v1585391408/cover/wechat-qrcode-scan-to-follow.jpg) (ID: tc_fun)
     - [知乎专栏](https://zhuanlan.zhihu.com/tc-fun)
   + 技术传播李琳：微信公众号 (ID: TC-Lilin) by 李琳 Emma
-  + TC 互联技术传播与技术写作社区
-    - [官网](http://www.tc-china.org/)
-    - 微信公众号：infomagic技术传播与技术写作 (ID: infomagic123)
+  + infomagic技术传播与技术写作：微信公众号 (ID: infomagic123)
   + tcworld 中国技术传播大会
     - 大会官网：[中文版](https://www.tcworld-china.cn/)，[英文版](https://www.tcworld-china.cn/en/)
     - 微信公众号：tcworld技术传播大会 (ID: tcworld-china)

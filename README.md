@@ -10,6 +10,7 @@ A curated list of awesome resources about [technical communication](https://en.w
   - [📚 Books and Guides](#-books-and-guides)
   - [🌐 Blogs and Websites](#-blogs-and-websites)
   - [🎓 Courses and Training](#-courses-and-training)
+  - [📈 Industry Reports](#-industry-reports)
   - [📻 Podcasts](#-podcasts)
   - [📰 Journals](#-journals)
 + [Resources in Chinese 中文资源](#resources-in-chinese-中文资源)
@@ -59,7 +60,9 @@ This section lists the selected resources in English.
 + Apple
   - [Apple Style Guide](https://help.apple.com/applestyleguide/)
   - [Human Interface Guidelines | Apple Developer Documentation](https://developer.apple.com/design/human-interface-guidelines)
-- [Red Hat supplementary style guide for product documentation](https://redhat-documentation.github.io/supplementary-style-guide/)
++ Red Hat
+  - [Red Hat Technical Writing Style Guide](https://stylepedia.net/style/)
+  - [Red Hat supplementary style guide for product documentation](https://redhat-documentation.github.io/supplementary-style-guide/)
 - [GitLab Documentation Style Guide](https://docs.gitlab.com/ee/development/documentation/styleguide/)
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 - [MongoDB Documentation Style Guide](https://www.mongodb.com/docs/meta/style-guide/)
@@ -118,6 +121,7 @@ This section lists the selected resources in English.
 - [TechWhirl](https://techwhirl.com/)
 - [ClickHelp Technical Writing Blog](https://clickhelp.com/clickhelp-technical-writing-blog/)
 - [Scriptorium Blog](https://www.scriptorium.com/blog/)
+- [Ed Marsh's Blog](https://edmarsh.com/)
 - [James' Blog](https://jamesg.blog/)
 - [ffeathers](https://ffeathers.wordpress.com/)
 - [indoition Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm)
@@ -130,6 +134,10 @@ This section lists the selected resources in English.
 - [API Documentation Course](https://idratherbewriting.com/learnapidoc/) | I'd Rather Be Writing: a guide for technical writers and engineers
 - [Technical Writer HQ](https://technicalwriterhq.com/technical-writing-certification-courses/)
 - [Technical Writing Essentials](https://alison.com/course/technical-writing-essentials) (Alison Course)
+
+### 📈 Industry Reports
+
+- [State of Docs Report 2025](https://www.stateofdocs.com/2025/)
 
 ### 📻 Podcasts
 
@@ -144,7 +152,7 @@ This section lists the selected resources in English.
   - [Wireframe (Adobe)](https://podcasts.apple.com/us/podcast/wireframe/id1437677219)
   - [The Not-Boring Tech Writer Podcast](https://www.thenotboringtechwriter.com/)
   - [10-Minute Tech Comm](https://tenminutetechcomm.com/)
-  - [Content Content Podcast](http://edmarsh.com/content-content-podcast/)
+  - [Content Content Podcast](https://edmarsh.com/podcasts/)
   - [Instrktiv's Insane Instructions Show](https://open.spotify.com/show/0OqluDn7YSjc1cdAULPOB8)
   - [Knowledgebase Ninjas](https://document360.io/blog/category/knowledgebase-ninjas/)
   - [The Manuscript](https://podcasts.apple.com/podcast/the-manuscript/id1501843799)

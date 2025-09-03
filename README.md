@@ -72,11 +72,11 @@ This section lists the selected resources in English.
 - [ASD Simplified Technical English (ASD-STE100)](http://www.asd-ste100.org/request.html) ([ASD](https://www.asd-europe.org/about-asd/))
 - Documentation Framework
   - [Diátaxis](https://diataxis.fr/), by Daniele Procida
-    - Four forms of documentation: tutorials, how-to guides, technical reference, and explanation.
+    - Four forms of documentation: tutorials, how-to guides, technical reference, and explanation
     - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework): a systematic approach to creating better documentation
     - [Documentation System](https://docs.divio.com/documentation-system/), [divio/documentation-framework](https://github.com/divio/documentation-framework)
   - [Documentation topic types (CTRT)](https://docs.gitlab.com/ee/development/documentation/topic_types/) | GitLab
-    - Four primary topic types: concept, task, reference, troubleshooting.
+    - Four primary topic types: concept, task, reference, troubleshooting
 - [Docs Like Code](https://www.docslikecode.com/book/)
   - [About Docs Like Code](https://www.docslikecode.com/about/)
   - [Docs Like Code Articles](https://www.docslikecode.com/articles/)

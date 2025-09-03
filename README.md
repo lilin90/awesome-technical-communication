@@ -67,12 +67,14 @@ This section lists the selected resources in English.
 - [Mailchimp Content Style Guide](https://styleguide.mailchimp.com/)
 - [MongoDB Documentation Style Guide](https://www.mongodb.com/docs/meta/style-guide/)
 - [The Chicago Manual of Style](https://www.amazon.com/Chicago-Manual-Style-16th/dp/0226104206) ([Online](https://www.chicagomanualofstyle.org/home.html))
-- [ASD Simplified Technical English (ASD-STE100)](http://www.asd-ste100.org/request.html)
+- [University of Oxford Style Guide](https://www.ox.ac.uk/sites/files/oxford/media_wysiwyg/University%20of%20Oxford%20Style%20Guide.pdf)
+- [Oxford Guide to Plain English](https://www.amazon.com/Oxford-Guide-Plain-English-Martin/dp/0198844611/)
+- [ASD Simplified Technical English (ASD-STE100)](http://www.asd-ste100.org/request.html) ([ASD](https://www.asd-europe.org/about-asd/))
 - Documentation Framework
-  - [Documentation System](https://docs.divio.com/documentation-system/) | [Diátaxis](https://diataxis.fr/), by Daniele Procida
+  - [Diátaxis](https://diataxis.fr/), by Daniele Procida
     - Four forms of documentation: tutorials, how-to guides, technical reference, and explanation.
-    - [divio/documentation-framework](https://github.com/divio/documentation-framework): a popular and transformative documentation authoring framework.
-    - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework): a systematic approach to creating better documentation.
+    - [evildmp/diataxis-documentation-framework](https://github.com/evildmp/diataxis-documentation-framework): a systematic approach to creating better documentation
+    - [Documentation System](https://docs.divio.com/documentation-system/), [divio/documentation-framework](https://github.com/divio/documentation-framework)
   - [Documentation topic types (CTRT)](https://docs.gitlab.com/ee/development/documentation/topic_types/) | GitLab
     - Four primary topic types: concept, task, reference, troubleshooting.
 - [Docs Like Code](https://www.docslikecode.com/book/)
@@ -86,7 +88,6 @@ This section lists the selected resources in English.
 - [DITA for Print: A DITA Open Toolkit Workbook](https://www.amazon.com/DITA-Print-Toolkit-Workbook-Second/dp/1937434540)
 - [Style: Lessons in Clarity and Grace](https://www.amazon.com/Style-Lessons-Clarity-Grace-12th/dp/0134080416/)
 - [The Elements of Style: Classic Edition (2018)](https://www.amazon.com/Elements-Style-Classic-Editors-Chapters/dp/1643990004)
-- [Oxford Guide to Plain English](https://www.amazon.com/Oxford-Guide-Plain-English-Martin/dp/0198844611/)
 - [The Product is Docs: Writing Technical Documentation in a Product Development Group](https://www.amazon.com/Product-Docs-technical-documentation-development/dp/B085KK6G8F)
 - [Docs as Tests: A Strategy for Resilient Technical Documentation](https://www.amazon.com/Docs-Tests-Resilient-Technical-Documentation/dp/0994169361)
 - [Docs for Developers: An Engineer’s Field Guide to Technical Writing](https://www.amazon.com/Docs-Developers-Engineers-Technical-Writing/dp/1484272161)
@@ -129,6 +130,11 @@ This section lists the selected resources in English.
 ### 🎓 Courses and Training
 
 - [Google Technical Writing Courses for Engineers](https://developers.google.com/tech-writing)
+  - [Technical Writing One](https://developers.google.com/tech-writing/one)
+  - [Technical Writing Two](https://developers.google.com/tech-writing/two) (including [Using large language models (LLMs) in technical writing](https://developers.google.com/tech-writing/two/llms))
+  - [Tech Writing for Accessibility](https://developers.google.com/tech-writing/accessibility)
+  - [Writing Helpful Error Messages](https://developers.google.com/tech-writing/error-messages)
+  - [Additional technical writing resources](https://developers.google.com/tech-writing/resources)
 - [GitLab Technical Writing Fundamentals Course](https://about.gitlab.com/handbook/engineering/ux/technical-writing/fundamentals/)
 - [tcworld TCTrainNet Training Program with Certification](https://www.technical-writing-training-and-certification.com/)
 - [API Documentation Course](https://idratherbewriting.com/learnapidoc/) | I'd Rather Be Writing: a guide for technical writers and engineers
@@ -211,7 +217,7 @@ and Inclusion of the Profession](https://doi.org/10.55177/tc583549)<!--([PDF](/r
 + 课程
   - [重庆邮电大学《英语技术写作》慕课](https://www.xueyinonline.com/detail/227533004)
 + 开课高校
-  - [开设技术传播或技术写作课程的中国高校](https://github.com/galty687/tc-universities)
+  - [开设技术传播或技术写作课程的中国高校](https://list.tc-edu.org/) ([source](https://github.com/galty687/tc-universities))
 
 ## Stargazers over time
 

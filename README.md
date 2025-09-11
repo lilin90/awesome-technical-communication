@@ -143,7 +143,8 @@ This section lists the selected resources in English.
 
 ### 📈 Industry Reports
 
-- [State of Docs Report 2025](https://www.stateofdocs.com/2025/)
+- [State of Docs Report 2025](https://www.stateofdocs.com/2025/) by GitBook
+- [State of DevOps Reports](https://dora.dev/publications/) by the Google Cloud [DORA (DevOps Research and Assessment) team](https://dora.dev/research/team/)
 
 ### 📻 Podcasts
 

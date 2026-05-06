@@ -13,6 +13,7 @@ A curated list of awesome resources about [technical communication](https://en.w
   - [📈 Industry Reports](#-industry-reports)
   - [📻 Podcasts](#-podcasts)
   - [📰 Journals](#-journals)
+  - [🤖 AI](#-ai)
 + [Resources in Chinese 中文资源](#resources-in-chinese-中文资源)
 + [Stargazers over time](#stargazers-over-time)
 
@@ -122,6 +123,7 @@ This section lists the selected resources in English.
 - [TechWhirl](https://techwhirl.com/)
 - [ClickHelp Technical Writing Blog](https://clickhelp.com/clickhelp-technical-writing-blog/)
 - [Scriptorium Blog](https://www.scriptorium.com/blog/)
+- [passo.uno](https://passo.uno/) by [Fabrizio Ferri Benedetti](https://passo.uno/about/)
 - [Ed Marsh's Blog](https://edmarsh.com/)
 - [James' Blog](https://jamesg.blog/)
 - [ffeathers](https://ffeathers.wordpress.com/)
@@ -166,6 +168,7 @@ This section lists the selected resources in English.
   - [Grammar Girl](https://www.quickanddirtytips.com/grammar-girl)
 
 + Tech
+
   - [Software Engineering Daily](https://softwareengineeringdaily.com/category/all-episodes/exclusive-content/Podcast/)
 
     The World Through the Lens of Software
@@ -185,6 +188,12 @@ This section lists the selected resources in English.
 and Inclusion of the Profession](https://doi.org/10.55177/tc583549)<!--([PDF](/resources/Dong&Gao-TechComm%20Journal-2023%20with%20covers.pdf))-->
 - [ACM Communication Design Quarterly Review](https://dl.acm.org/newsletter/sigdoc-cdq)
 - [Technical Communication Quarterly](https://www.tandfonline.com/journals/htcq20)
+
+### 🤖 AI
+
++ [Advent of Agents](https://adventofagents.com/) by Google Cloud
+  - [Season 1 · Winter 2025](https://adventofagents.com/2025/12/)
+  - [Season 2 · Spring 2026](https://adventofagents.com/2026/03/)
 
 ## Resources in Chinese 中文资源
 

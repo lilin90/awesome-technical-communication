@@ -145,7 +145,9 @@ This section lists the selected resources in English.
 
 ### 📈 Industry Reports
 
-- [State of Docs Report 2025](https://www.stateofdocs.com/2025/) by GitBook
++ State of Docs Report (by GitBook)
+  - [State of Docs Report 2026](https://www.stateofdocs.com/2026/) ([blog post](https://www.gitbook.com/blog/state-of-docs-2026))
+  - [State of Docs Report 2025](https://www.stateofdocs.com/2025/) ([blog post](https://www.gitbook.com/blog/state-of-docs-report-2025))
 - [State of DevOps Reports](https://dora.dev/publications/) by the Google Cloud [DORA (DevOps Research and Assessment) team](https://dora.dev/research/team/)
 
 ### 📻 Podcasts
@@ -194,6 +196,9 @@ and Inclusion of the Profession](https://doi.org/10.55177/tc583549)<!--([PDF](/r
 + [Advent of Agents](https://adventofagents.com/) by Google Cloud
   - [Season 1 · Winter 2025](https://adventofagents.com/2025/12/)
   - [Season 2 · Spring 2026](https://adventofagents.com/2026/03/)
++ [Hello-Agents](https://github.com/datawhalechina/Hello-Agents): Building an AI Agent from Scratch
+  - Chinese: <https://hello-agents.datawhale.cc/>
+  - English: <https://hello-agents.datawhale.cc/#/en/>
 
 ## Resources in Chinese 中文资源
 

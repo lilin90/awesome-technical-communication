@@ -128,6 +128,7 @@ This section lists the selected resources in English.
 - [James' Blog](https://jamesg.blog/)
 - [ffeathers](https://ffeathers.wordpress.com/)
 - [indoition Technical Documentation Tool and Web Guide](https://www.indoition.com/tools-websites-technical-documentation.htm)
+- [DITA Strategies Library](https://www.ditastrategies.com/library)
 
 ### 🎓 Courses and Training
 

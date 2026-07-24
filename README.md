@@ -50,7 +50,7 @@ This section lists the selected resources in English.
   - [IBM Carbon Design System Content Guidelines](https://www.carbondesignsystem.com/)
 + Google
   - [Google Developer Documentation Style Guide](https://developers.google.com/style/) ([cn](https://developers.google.cn/style/))
-  - [Google Material Design Writing Guidelines](https://material.io/design/communication/writing.html#principles)
+  - [Google Material 3 Design Guidelines](https://m3.material.io/) ([Content Design](https://m3.material.io/foundations/content-design/overview)) ([Material 2](https://m2.material.io/design/communication/writing.html#principles))
   - [Material's Communication Principles: Intro to UX Writing](https://codelabs.developers.google.com/codelabs/material-communication-guidance#0) (Google Developers Codelabs)
 + Microsoft
   - [Microsoft Writing Style Guide](https://learn.microsoft.com/en-us/style-guide/welcome/)

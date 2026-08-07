@@ -19,7 +19,7 @@ A curated list of awesome resources about [technical communication](https://en.w
 
 ## Resources in English
 
-This section lists the selected resources in English.
+This section lists the selected resources in English.英文啦啦啦啦啦
 
 ### 🏫 Organizations
 

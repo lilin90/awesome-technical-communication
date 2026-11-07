@@ -194,8 +194,9 @@ and Inclusion of the Profession](https://doi.org/10.55177/tc583549)<!--([PDF](/r
 ### 🤖 AI
 
 + [Advent of Agents](https://adventofagents.com/) by Google Cloud
-  - [Season 1 · Winter 2025](https://adventofagents.com/2025/12/)
-  - [Season 2 · Spring 2026](https://adventofagents.com/2026/03/)
+  - [Season 1 · Dec 2025 🎄](https://adventofagents.com/2025/12/)
+  - [Season 2 · Mar 2026 🌸](https://adventofagents.com/2026/03/)
+  - [Season 3 · Oct 2026 🎃](https://adventofagents.com/2026/10/)
 + [Hello-Agents](https://github.com/datawhalechina/Hello-Agents): Building an AI Agent from Scratch
   - Chinese: <https://hello-agents.datawhale.cc/>
   - English: <https://hello-agents.datawhale.cc/#/en/>

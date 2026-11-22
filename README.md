@@ -149,6 +149,7 @@ This section lists the selected resources in English.
   - [State of Docs Report 2026](https://www.stateofdocs.com/2026/) ([blog post](https://www.gitbook.com/blog/state-of-docs-2026))
   - [State of Docs Report 2025](https://www.stateofdocs.com/2025/) ([blog post](https://www.gitbook.com/blog/state-of-docs-report-2025))
 - [State of DevOps Reports](https://dora.dev/publications/) by the Google Cloud [DORA (DevOps Research and Assessment) team](https://dora.dev/research/team/)
+- [Content Design Report](https://contentdesignreport.com/): a living, daily-updated report on the content design job market: pay, AI skills, and where people go next
 
 ### 📻 Podcasts
 

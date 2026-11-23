@@ -149,6 +149,7 @@ This section lists the selected resources in English.
   - [State of Docs Report 2026](https://www.stateofdocs.com/2026/) ([blog post](https://www.gitbook.com/blog/state-of-docs-2026))
   - [State of Docs Report 2025](https://www.stateofdocs.com/2025/) ([blog post](https://www.gitbook.com/blog/state-of-docs-report-2025))
 - [State of DevOps Reports](https://dora.dev/publications/) by the Google Cloud [DORA (DevOps Research and Assessment) team](https://dora.dev/research/team/)
+- [2026 Top 50 AI & Dev SaaS AI Search Readiness & /llms.txt Benchmark](https://zcoldwater.github.io/citeready-cli/ai-search-readiness-benchmark-2026.html) by OmniForge ([raw JSON dataset](https://zcoldwater.github.io/citeready-cli/ai-search-readiness-benchmark-2026.json)) — Empirical study measuring `/llms.txt` (74%), `/llms-full.txt` (22%), Schema.org entity graphs, and AI crawler policies across 50 leading developer documentation and SaaS websites.
 
 ### 📻 Podcasts
 
